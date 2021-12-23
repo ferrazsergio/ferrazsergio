@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/SergioFerraz22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioFerraz22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioFerraz22)](https://github.com/anuraghazra/github-readme-stats" />
+  
 
     
 </div>
