@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: juniorsilva6677@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/SergioFerraz22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioFerraz22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
@@ -20,8 +20,8 @@
   <img align="center" alt="Ferraz-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"a>
   <img align="center" alt="Ferraz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ferraz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ferraz-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Ferraz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Ferraz-JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Ferraz-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
   
