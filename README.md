@@ -1,9 +1,8 @@
-## Olá! Eu sou o Sérgio Ferraz, apaixonado por desenvolvimento 
+## Olá! Me chamo Sérgio Ferraz, Estudante de Ciencia da computação !
 
 
 
 - 🔭 Hoje ainda não trabalho na área tech
-- 🌱 Estou cursando Ciencia da Computação
 - 📫 Contate-me no email: juniorsilva6677@hotmail.com
 - 😄 Pronouns: ele/dele
 
