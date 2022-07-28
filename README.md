@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje ainda não trabalho na área tech
+- 🔭 Estagiario OI.SA
 - 📫 Contate-me no email: juniorsilva6677@hotmail.com
 - 😄 Pronouns: ele/dele
 
