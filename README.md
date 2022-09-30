@@ -1,10 +1,8 @@
-## Olá! Me chamo Sérgio Ferraz, Estudante de Ciencia da computação !
+## Hello, my name is Sergio Ferraz! I'm a student in Computer Science !
 
-
-
-- 🔭 Estagiario OI.SA
-- 📫 Contate-me no email: juniorsilva6677@hotmail.com
-- 😄 Pronouns: ele/dele
+###   -   I am developing myself for the job market, and I intend to become a Software Engineer, my soft skills are my communication, proactiveness and resilience to solve problems in the midst of crises 🚀
+##### -  Working with data analysis and automation using python 🖥
+##### -  I'm studying full stack development in java 👨‍💻
 
 <div align="left">
   <a href="https://github.com/SergioFerraz22">
