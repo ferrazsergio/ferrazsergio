@@ -1,8 +1,14 @@
-## Hello, my name is Sergio Ferraz! I'm a student in Computer Science !
+## Hello, my name is Sergio Ferraz! 👋
 
-####  -   I am developing myself for the job market, and I intend to become a Software Engineer, my soft skills are my communication, proactiveness and resilience to solve problems in the midst of crises 🚀
-#### -  I am currently interning as a full stack Java developer at ANBIMA 🖥
-#### -  I'm studying to specialize as a software engineer 👨‍💻
+I'm a Computer Science student and I'm constantly developing myself to enter the job market as a Software Engineer.
+
+### About me:
+
+- 💼 Currently, I'm interning as a full stack Java developer at ANBIMA.
+- 📚 I'm dedicated to studying to specialize as a software engineer.
+- 🚀 My interpersonal skills include effective communication, proactivity, and resilience to solve problems even in crisis situations.
+
+Let's build the future together! 👨‍💻✨
 
 <div align="left">
   <a href="https://github.com/SergioFerraz22">
