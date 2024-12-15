@@ -4,7 +4,6 @@ I'm a Computer Science student and I'm constantly developing myself to enter the
 
 ### About me:
 
-- 💼 Currently, I'm interning as a full stack Java developer at ANBIMA.
 - 📚 I'm dedicated to studying to specialize as a software engineer.
 - 🚀 My interpersonal skills include effective communication, proactivity, and resilience to solve problems even in crisis situations.
 
